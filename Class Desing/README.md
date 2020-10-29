@@ -34,7 +34,7 @@ A class or Interface cannot be declared as private or protected. Furthermore, me
 #### Access modifier and their visibility
 
 Modifier | Same class | subclass inside the package|Subclass outside the package| other class inside the package| Other class outside the package
------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
 PUBLIC | YES | YES | YES | YES | YES
 PRIVATE | YES | NO | NO | NO | NO
 PROTECTED | YES | YES | YES | YES | NO
